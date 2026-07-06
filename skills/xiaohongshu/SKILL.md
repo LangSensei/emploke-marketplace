@@ -7,7 +7,7 @@ prereqs: |
   Requires: Playwright, Chromium, Chinese Fonts, Auth. See `references/SETUP.md` for step-by-step setup instructions.
 dependencies:
   mcps:
-    - "https://github.com/LangSensei/emploke-marketplace/tree/main/mcps/io.playwright_mcp.json"
+    - "https://github.com/glyphs-ai/glyph/tree/main/first-party/mcps/io.playwright_mcp.json"
 ---
 
 # Xiaohongshu Skill
